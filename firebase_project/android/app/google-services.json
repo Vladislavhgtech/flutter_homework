@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "888752225196",
+    "project_id": "skillbox-homework11",
+    "storage_bucket": "skillbox-homework11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888752225196:android:a18180a6d303245aea5809",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888752225196-9dopue0hed0d23lhggp132cnkko1uank.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCfqeOyV8ktrrXV0csteSDHXT6W3i27dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888752225196-9dopue0hed0d23lhggp132cnkko1uank.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888752225196-0jbm4bi0jn7442rt6j5k5bppurhka3ej.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
